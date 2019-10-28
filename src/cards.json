@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Stan Marsh",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/stan-marsh.png?height=165"
+    },
+    {
+        "id": 2,
+        "name": "Kyle Brolovski",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kyle-broflovski.png?height=165"
+    },
+    {
+        "id": 3,
+        "name": "Eric Cartman",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/eric-cartman.png?height=165"
+    },
+    {
+        "id": 4,
+        "name": "Kenny McCormick",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/kenny-mccormick.png?height=165"
+    },
+    {
+        "id": 5,
+        "name": "Butters Stotch",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/butters-stotch.png?height=165"
+    },
+    {
+        "id": 6,
+        "name": "Tweek Tweak",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/tweek-tweak.png?height=165"
+    },
+    {
+        "id": 7,
+        "name": "Jimmy Valmer",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/jimmy-valmer.png?height=165"
+    },
+    {
+        "id": 8,
+        "name": "Randy Marsh",
+        "image": "https://southparkstudios.mtvnimages.com/shared/characters/adults/identities-guitar-hero-randy.png?height=165"
+    },
+    {
+        "id": 9,
+        "name": "Mr. Mackey",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/mackey.png?height=165"
+    },
+    {
+        "id": 10,
+        "name": "PC Principal",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/adults/education-pc-principal.png?height=165"
+    },
+    {
+        "id": 11,
+        "name": "Terrance",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/celebrities/terrance.png?height=165"
+    },
+    {
+        "id": 12,
+        "name": "Phillip",
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/celebrities/pillip.png?height=165"
+    }
+]
