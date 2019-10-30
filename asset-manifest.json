@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Skorgum/Clicky-game/static/css/main.e1b0eaa8.chunk.css",
+    "main.js": "/Skorgum/Clicky-game/static/js/main.2a4e998d.chunk.js",
+    "main.js.map": "/Skorgum/Clicky-game/static/js/main.2a4e998d.chunk.js.map",
+    "runtime-main.js": "/Skorgum/Clicky-game/static/js/runtime-main.33f9d85a.js",
+    "runtime-main.js.map": "/Skorgum/Clicky-game/static/js/runtime-main.33f9d85a.js.map",
+    "static/js/2.36308ebf.chunk.js": "/Skorgum/Clicky-game/static/js/2.36308ebf.chunk.js",
+    "static/js/2.36308ebf.chunk.js.map": "/Skorgum/Clicky-game/static/js/2.36308ebf.chunk.js.map",
+    "index.html": "/Skorgum/Clicky-game/index.html",
+    "precache-manifest.1791a9bc7710e3f9927eba282427d888.js": "/Skorgum/Clicky-game/precache-manifest.1791a9bc7710e3f9927eba282427d888.js",
+    "service-worker.js": "/Skorgum/Clicky-game/service-worker.js",
+    "static/css/main.e1b0eaa8.chunk.css.map": "/Skorgum/Clicky-game/static/css/main.e1b0eaa8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33f9d85a.js",
+    "static/js/2.36308ebf.chunk.js",
+    "static/css/main.e1b0eaa8.chunk.css",
+    "static/js/main.2a4e998d.chunk.js"
+  ]
+}
