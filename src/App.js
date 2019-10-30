@@ -3,7 +3,6 @@ import Jumbotron from "./components/Jumbotron/Jumbotron.js"
 import Card from "./components/Card/Card.js"
 import cards from "./cards.json"
 import './App.css';
-import { isFlowDeclaration } from '@babel/types';
 
 class App extends Component {
 
@@ -18,7 +17,7 @@ class App extends Component {
   updateScore = (id) => {
 
     // Reset the game if a previously selected card is clicked
-    if (this.sate.clickedCards.includes(id)) {
+    if (this.state.clickedCards.includes(id)) {
       alert("You lose!");
       this.setState({ score: 0, clickedCards: [] })
     }
