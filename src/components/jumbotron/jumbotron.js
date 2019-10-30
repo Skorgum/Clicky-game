@@ -6,6 +6,7 @@ const Jumbotron = (props) => (
         <div className="jumbotron">
             <h1>South <br />Park</h1>
             <h3>React Clicky Game</h3>
+            <p>Click each picture, but only once!</p>
             <h4>Score: {props.score} <span> High Score: {props.highScore} </span></h4>
         </div>
     </div>
